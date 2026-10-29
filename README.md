@@ -1,4 +1,4 @@
-![Banner](bannergit.png)
+![Banner](banner/bannergit.png)
 
 oii, eu sou a Alessa!
 
