@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Alessa%20୨୧&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/><img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=welcome+to+my+profile+%E2%99%A1;student+%26+developer+in+progress+%E2%9C%A7;learning+%2C+creating+%26+evolving+%F0%9F%8C%B7" /><br>˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Alessa%20୨୧&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/><img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=welcome+to+my+profile+%E2%99%A1;student+%26+developer+in+progress+%E2%9C%A7;learning+%2C+creating+%26+evolving+%F0%9F%8C%B7" /><br>˚₊‧꒰ა ♡ ໒꒱ ‧₊˚
 
 oii, eu sou a Alessa!
 
