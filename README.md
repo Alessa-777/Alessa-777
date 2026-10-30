@@ -31,7 +31,7 @@
 </div>Meus projetos ficam disponíveis nos meus repositórios do GitHub.
 Cada projeto representa um pouco do que estou aprendendo durante minha jornada. ♡
 
-<div align="center"><a href="https://github.com/Alessa-777?tab=repositories"> src="https://github-readme-stats.vercel.app/api?username=Alessa-777&show_icons=true&hide_border=true&bg_color=fff7fb&title_color=ff69b4&icon_color=ff69b4&text_color=777777&ring_color=ff69b4" /><br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alessa-777&layout=compact&hide_border=true&bg_color=fff7fb&title_color=ff69b4&text_color=777777" /></div>---
+<div align="center"><a href="https://github.com/Alessa-777?tab=repositories"> /></div>---
 
 <div align="center">🎀 github activity 🎀
 
